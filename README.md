@@ -1,27 +1,17 @@
-# 04Router
+# 04Router_Challenge
+### chemin '/'
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/36d8743f-d17d-43a1-8e95-09f56b822a45)
+### chemin '/signup'
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/43ad328d-4ff1-4d5d-b094-69d005716f05)
+### chemin '/user'
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/f9b27336-6b3e-434f-b6aa-dceb01a99cec)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## code 
+### routes
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/b635bf88-41d7-4fda-8107-7642da1f3b7c)
+### app.component.html
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/e7776b37-355f-41cb-94b7-0d7593904b3c)
+### app.module.ts
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/808840ba-75a9-49ce-b23a-cad1545daef2)
+### menu.component.html
+![image](https://github.com/Tylyfox/04_router_challenge/assets/99875743/d27dac87-22c5-456f-ac84-d5ffa7269adc)
