@@ -1,0 +1,16 @@
+<div class="container" xmlns="http://www.w3.org/1999/html">
+  <div class="card">
+    <div class="box">
+      <div class="content">
+        <img [src]="user.photo" [alt]="user.name">
+        <h2>{{user.name}}</h2>
+        <h2>{{user.firstName}}</h2>
+        <h3 [hidden]="user.hide">{{user.age}}</h3>
+        <p>{{user.quote}}</p>
+        <input type="text" [(ngModel)]="user.quote" placeholder="Write Your Citation" id="quote">
+        <br>
+        <button (click)="toggle()" >Afficher/Masquer mon âge </button>
+      </div>
+    </div>
+  </div>
+</div>
